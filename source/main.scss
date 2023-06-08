@@ -11,13 +11,14 @@ header {
 }
 
 button {
-padding: 16px;
-background-color: $corSecundaria;
-color: $corPrincipal;
-&:hover{
-  background-color: #e23399;
-} 
-&.sucesso {
-  background-color: greenyellow;
-}
+  padding: 16px;
+  background-color: $corSecundaria;
+  color: $corPrincipal;
+  &:hover {
+    background-color: #e23399;
+  }
+  &.teste
+   {
+    background-color: red;
+  }
 }

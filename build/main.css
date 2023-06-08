@@ -17,8 +17,8 @@ button {
 button:hover {
   background-color: #e23399;
 }
-button.sucesso {
-  background-color: greenyellow;
+button.teste {
+  background-color: red;
 }
 
 /*# sourceMappingURL=main.css.map */

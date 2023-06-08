@@ -1,5 +1,5 @@
 {
-  "name": "saas",
+  "name": "sass_modulo-15",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "saas": "^1.0.0"
+  "dependencies": {
+    "sass": "^1.63.2"
   }
 }
