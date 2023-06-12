@@ -1,24 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.produtos {
+  background-color: green;
+}
+
 body {
-  background-color: #eee;
-}
-
-header {
-  background-color: #eee;
-}
-header h1 {
-  color: #111;
-}
-
-button {
-  padding: 16px;
-  background-color: #111;
-  color: #eee;
-}
-button:hover {
-  background-color: #e23399;
-}
-button.teste {
-  background-color: red;
+  background-color: #8b8b8b;
 }
 
 /*# sourceMappingURL=main.css.map */

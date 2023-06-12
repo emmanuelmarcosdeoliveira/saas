@@ -1,24 +1,6 @@
-$corPrincipal: #eee;
-$corSecundaria: #111;
-body {
-  background-color: $corPrincipal;
-}
-header {
-  background-color: $corPrincipal;
-  h1 {
-    color: $corSecundaria;
-  }
-}
-
-button {
-  padding: 16px;
-  background-color: $corSecundaria;
-  color: $corPrincipal;
-  &:hover {
-    background-color: #e23399;
-  }
-  &.teste
-   {
-    background-color: red;
-  }
+@use 'config/reset.scss';
+@use 'section/produtos.scss';
+@use 'config/cores.scss';
+body{
+  background-color: cores.$corDeFundo;
 }
